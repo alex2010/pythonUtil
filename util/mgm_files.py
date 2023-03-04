@@ -3,7 +3,7 @@ import shutil
 
 
 
-def search_files(path, ext, size=0.5 * 1024 * 1024, mode='greater'):
+def search_files(path, ext, size=1024 * 1024, mode='greater'):
     if not path or not ext:
         raise ValueError("Please provide both path and extension.")
     files = []
