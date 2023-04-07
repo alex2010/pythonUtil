@@ -1,12 +1,11 @@
-# ChatGPT+Python 10倍提升你的工作效率
+# ChatGPT+Python 10倍提升你的工作效率 工作坊
 
-## Workshop #1
+## #1
 
 
 ### preparation
 
-## Workshop #2
-Python编程基础，Office辅助与数据分析
+## #2 Python编程基础，Office辅助与数据分析
 
 - 作业案例探讨
 - 如何使用ChatGPT学习Python编程
@@ -19,8 +18,8 @@ Python编程基础，Office辅助与数据分析
 
 注册好ChatGPT，并配置好python环境， 请在ChatGPT下问下面的问题，并看一遍，如果有ChatGPT回答不了的问题，我们工作坊上回答。
 
-- 👉请给我列出一个详细的Python学习计划，先学什么后学什么，我没有任何编程基础
 - 👉请结合例子给我详细讲解数据类型（字符串、数字、列表、字典类型等）、变量、运算符、表达式等概念
+- 👉请给我列出一个详细的Python学习计划，先学什么后学什么，我没有任何编程基础
 - 👉为什么要有变量，变量与数据类型之间是什么关系？
 - 👉什么是函数，函数与变量之间的关系是什么？
 - 👉什么是语句？请再结合例子解释一下语句的概念？有哪些类型的语句？
@@ -28,6 +27,22 @@ Python编程基础，Office辅助与数据分析
 - 👉什么是异常处理，请举个例子
 - 👉Python中基础语法是什么？
 - 👉Python中编程概念是什么？
+
+## #3 Github使用，多媒体操作
+
+### preparation
+
+注册好ChatGPT，并配置好python环境
+下载安装git软件：https://git-scm.com/download
+（安装，要记得选择在Path下增加git命令）
+
+通过ChatGPT，问下面的问题：
+
+- 什么是github，我应该如何使用呢？
+- Github上如何新建项目？Fork有是什么？
+- Github中的Clone是什么，如何使用？
+- 本地仓库，我可以做那些操作？
+- 我如何与原来的库同步？什么是pull request？
 
 ### set git
 
