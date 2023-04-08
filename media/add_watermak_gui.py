@@ -4,17 +4,6 @@ from functools import partial
 from image import add_watermark
 
 
-# def start_watching():
-#     folder_path = folder_path_var.get()
-#     watermark_path = watermark_path_var.get()
-#     width = int(width_var.get())
-#     opacity = float(opacity_var.get())
-#     scale = float(scale_var.get())
-#     position = position_var.get()
-#
-#     add_watermark(folder_path, watermark_path, width, opacity, scale, position)
-
-
 def create_gui():
     def browse_folder_path():
         folder_path = filedialog.askdirectory()

@@ -96,11 +96,11 @@ def on_created(event):
         print(f"处理完毕：{image_path}")
 
 
-folder = '/Users/alexwang/Downloads/iAccept/23-4-1/'
-watermark_path = '/Users/alexwang/Downloads/iAccept/logo.png'
-width = 1280
-opacity = 1
-scale = 0.1
-position = "br"
-
-start_watch_folder(folder)
+# folder = '/Users/alexwang/Downloads/iAccept/23-4-1/'
+# watermark_path = '/Users/alexwang/Downloads/iAccept/logo.png'
+# width = 1280
+# opacity = 1
+# scale = 0.1
+# position = "br"
+#
+# start_watch_folder(folder)
