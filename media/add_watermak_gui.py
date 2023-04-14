@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import filedialog
-from functools import partial
 from image import add_watermark
 
 
