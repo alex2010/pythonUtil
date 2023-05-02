@@ -1,9 +1,18 @@
-# ChatGPT+Python 10倍提升你的工作效率 工作坊
+# ChatGPT+Python自然语言编程 10倍提升你的工作效率
 
-## #1
-
+## #1 程序化思维，环境搭建与调试运行
 
 ### preparation
+
+- 请携带电脑参加：
+
+- 下载python: https://www.python.org/downloads (打开比较慢，请等待）
+
+- 开发工具：https://www.jetbrains.com/zh-cn/pycharm（社区版，免费） 或者：https://code.visualstudio.com/
+
+- 如果你还没有ChatGPT账号，请10点到达，我会提前协助大家注册ChatGPT。
+
+- 如果你还没有VPN，可以注册Astrill的VPN（这个VPN的费用比较贵，但非常稳定），并准备好银联支付。注册邮箱最好有Outlook或者Gmail的邮箱
 
 ## #2 Python编程基础，Office辅助与数据分析
 
